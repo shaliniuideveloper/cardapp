@@ -1,0 +1,16 @@
+{
+  "main.css": "/cardapp/static/css/main.dba3301d.chunk.css",
+  "main.js": "/cardapp/static/js/main.e22e7cb6.chunk.js",
+  "main.js.map": "/cardapp/static/js/main.e22e7cb6.chunk.js.map",
+  "runtime~main.js": "/cardapp/static/js/runtime~main.4155d4e0.js",
+  "runtime~main.js.map": "/cardapp/static/js/runtime~main.4155d4e0.js.map",
+  "static/js/2.321f2247.chunk.js": "/cardapp/static/js/2.321f2247.chunk.js",
+  "static/js/2.321f2247.chunk.js.map": "/cardapp/static/js/2.321f2247.chunk.js.map",
+  "index.html": "/cardapp/index.html",
+  "precache-manifest.f7b40578827766d2357ffa07a96c520f.js": "/cardapp/precache-manifest.f7b40578827766d2357ffa07a96c520f.js",
+  "service-worker.js": "/cardapp/service-worker.js",
+  "static/css/main.dba3301d.chunk.css.map": "/cardapp/static/css/main.dba3301d.chunk.css.map",
+  "static/media/logo.png": "/cardapp/static/media/logo.2a3f011a.png",
+  "static/media/logo.svg": "/cardapp/static/media/logo.5d5d9eef.svg",
+  "static/media/tile.jpg": "/cardapp/static/media/tile.25b4e634.jpg"
+}
