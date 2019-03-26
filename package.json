@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://shaliniuideveloper.github.io/cardapp"
+  "homepage": "https://shaliniuideveloper.github.io/cardapp",
   "dependencies": {
     "@rebass/grid": "^6.0.0-7",
     "enzyme": "^3.9.0",
